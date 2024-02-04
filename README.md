@@ -4,7 +4,7 @@
     
 <!--Socials-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/rohit-sharma-contactrs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma-contactrs/) 
 
 <a href="https://www.linkedin.com/in/rohit-sharma-contactrs/">
     
