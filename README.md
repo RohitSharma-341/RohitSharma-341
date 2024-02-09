@@ -5,6 +5,7 @@
 <!--Socials-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sharma-contactrs/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/rohitsharma341)
 
 <a href="https://www.linkedin.com/in/rohit-sharma-contactrs/">
     
