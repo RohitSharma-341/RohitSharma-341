@@ -25,7 +25,15 @@
 
 <h1> About </h1> 
  <p> 
-    I'm currently studying Data Science & AI for my master's degree. I love diving into new developments in AI and experimenting with different ideas. Excited to learn and collaborate with others in the AI community!
+    I’m a results-driven Senior Business Analyst with 1+ years of experience in Business Intelligence, data analytics, and dashboarding, currently working at Globiva.
+
+ 
+
+I specialize in transforming complex data into actionable insights by building scalable BI solutions, automating reporting workflows, and delivering high-impact dashboards for enterprise clients such as Tata Motors and HDFC Bank.
+
+ 
+
+My experience also includes working on-site with government organizations, including NTRO and Krishi Bhawan (NIC), where I collaborated closely with stakeholders to deliver data-driven insights that enhanced decision-making and improved operational visibility.
 
 <!--About Ends-->
     
